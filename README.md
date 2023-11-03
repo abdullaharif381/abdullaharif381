@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abdullaharif381](https://medium.com/@abdullaharif381)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++**, **Data Science**, **Deep Learning**
 
 - 📫 How to reach me **arifabdullah764@gmail.com**
 
