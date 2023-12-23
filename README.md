@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullaharif381](https://github.com/abdullaharif381)
 
-- 📝 I regularly write articles on [https://medium.com/@abdullaharif381](https://medium.com/@abdullaharif381)
+- 📝 Articles on [https://medium.com/@abdullaharif381](https://medium.com/@abdullaharif381)
 
 - 💬 Ask me about **C++**, **Data Science**, **Deep Learning**
 
