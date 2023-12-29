@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaharif381&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaharif381" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullaharif381](https://github.com/abdullaharif381)
 
