@@ -5,9 +5,7 @@
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullaharif381](https://github.com/abdullaharif381)
-
-- 📝 Articles on [https://medium.com/@abdullaharif381](https://medium.com/@abdullaharif381)
-
+  
 - 💬 Ask me about **C++**, **Data Science**, **Deep Learning**
 
 - 📫 How to reach me **arifabdullah764@gmail.com**
