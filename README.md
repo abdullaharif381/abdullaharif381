@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaharif381&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaharif381" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdullaharif381](https://github.com/abdullaharif381)
+- 👨‍💻 all of my projects are available at [https://github.com/abdullaharif381](https://github.com/abdullaharif381)
   
 - 💬 Ask me about **C++**, **Data Science**, **Deep Learning**
 
